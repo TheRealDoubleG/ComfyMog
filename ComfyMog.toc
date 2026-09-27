@@ -3,7 +3,7 @@
 ## Notes: Transmog collection status in item tooltips for WoW Forever.
 ## Notes-deDE: Transmog-Sammlungsstatus direkt im Gegenstands-Tooltip für WoW Forever.
 ## Author: TheRealDoubleG
-## Version: 0.2
+## Version: 0.3
 ## SavedVariables: ComfyMogDB
 ## X-Website: https://github.com/TheRealDoubleG/ComfyMog
 ## X-ComfySuite: true
