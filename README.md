@@ -1,6 +1,6 @@
 # ComfyMog
 
-**Version 0.2 – Beta**  
+**Version 0.3 – Beta**  
 **Target: World of Warcraft: Forever 1.60.1 / Interface 16001**  
 Author: **TheRealDoubleG**  
 Discord: **the.real.double.g**
