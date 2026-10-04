@@ -3,7 +3,7 @@
 ## Notes: Transmog collection status, account-wide seen/owned database and explorer for WoW Forever.
 ## Notes-deDE: Transmog-Status, charakterübergreifende Gesehen-/Besitz-Datenbank und Explorer für WoW Forever.
 ## Author: TheRealDoubleG
-## Version: 0.5
+## Version: 0.6
 ## SavedVariables: ComfyMogDB
 ## X-Website: https://github.com/TheRealDoubleG/ComfyMog
 ## X-ComfySuite: true
@@ -16,3 +16,4 @@ SharedSettings.lua
 Mog.lua
 Options.lua
 Database.lua
+InspectScanner.lua
